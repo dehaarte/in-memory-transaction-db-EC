@@ -1,3 +1,8 @@
+#References and referred to the assignment Figure 1 and 2, and resources in the assignment 
+# https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/
+# https://medium.com/@mithoonkumar/design-an-in-memory-nosql-database-ood-428d48b68dfa
+# https://www.geeksforgeeks.org/java/java-util-hashmap-in-java-with-examples/
+# https://www.geeksforgeeks.org/python/python-dictionary/
 
 class InMemoryDB:
     def __init__(self):
